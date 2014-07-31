@@ -36,3 +36,10 @@ D:\Osama\Programming\Projects\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentA
 D:\Osama\Programming\Projects\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Form1.resources
 D:\Osama\Programming\Projects\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Properties.Resources.resources
 D:\Osama\Programming\Projects\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.GenerateResource.Cache
+D:\Osama\Programming\Projects\ContentAwareResizer\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+D:\Osama\Programming\Projects\ContentAwareResizer\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
+D:\Osama\Programming\Projects\ContentAwareResizer\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+D:\Osama\Programming\Projects\ContentAwareResizer\ContentAwareResize\bin\Debug\ContentAwareResize.pdb
+D:\Osama\Programming\Projects\ContentAwareResizer\ContentAwareResize\obj\Debug\ContentAwareResize.Form1.resources
+D:\Osama\Programming\Projects\ContentAwareResizer\ContentAwareResize\obj\Debug\ContentAwareResize.Properties.Resources.resources
+D:\Osama\Programming\Projects\ContentAwareResizer\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.GenerateResource.Cache

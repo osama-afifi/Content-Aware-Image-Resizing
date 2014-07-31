@@ -39,6 +39,7 @@ namespace ContentAwareResize
             this.label4 = new System.Windows.Forms.Label();
             this.txtHeight = new System.Windows.Forms.TextBox();
             this.ContentAwareButton = new System.Windows.Forms.Button();
+            this.SaveButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
@@ -148,11 +149,22 @@ namespace ContentAwareResize
             this.ContentAwareButton.UseVisualStyleBackColor = true;
             this.ContentAwareButton.Click += new System.EventHandler(this.ContentAwareButton_Click);
             // 
+            // SaveButton
+            // 
+            this.SaveButton.Location = new System.Drawing.Point(786, 415);
+            this.SaveButton.Name = "SaveButton";
+            this.SaveButton.Size = new System.Drawing.Size(73, 55);
+            this.SaveButton.TabIndex = 11;
+            this.SaveButton.Text = "Save Image";
+            this.SaveButton.UseVisualStyleBackColor = true;
+            this.SaveButton.Click += new System.EventHandler(this.SaveButton_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(904, 486);
+            this.Controls.Add(this.SaveButton);
             this.Controls.Add(this.ContentAwareButton);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.txtHeight);
@@ -186,6 +198,7 @@ namespace ContentAwareResize
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox txtHeight;
         private System.Windows.Forms.Button ContentAwareButton;
+        private System.Windows.Forms.Button SaveButton;
     }
 }
 

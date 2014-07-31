@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Drawing.Imaging;
 using System.Text;
 using System.Windows.Forms;
 
@@ -16,6 +17,7 @@ namespace ContentAwareResize
         }
 
         MyPixel[,] ImageMatrix;
+        MyPixel[,] contentAwareImage;
 
         private void btnOpen_Click(object sender, EventArgs e)
         {
@@ -46,10 +48,31 @@ namespace ContentAwareResize
             int newWidth = int.Parse(txtWidth.Text);
             int newHeight = int.Parse(txtHeight.Text);
             ContentAwareResize CA = new ContentAwareResize(ImageMatrix);
-            MyPixel[,] contentAwareImage = CA.seamCarve(newHeight, newWidth);
+            contentAwareImage = CA.seamCarve(newHeight, newWidth);
             //contentAwareImage =  ImageOperations.NormalResize(contentAwareImage, newWidth, newHeight);
 
             ImageOperations.DisplayImage(contentAwareImage, pictureBox2);
+        }
+
+        private void SaveButton_Click(object sender, EventArgs e)
+        {
+            SaveFileDialog sfd = new SaveFileDialog();
+            sfd.Filter = "Images|*.png;*.bmp;*.jpg";
+            ImageFormat format = ImageFormat.Png;
+            if (sfd.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+            {
+                string ext = System.IO.Path.GetExtension(sfd.FileName);
+                switch (ext)
+                {
+                    case ".jpg":
+                        format = ImageFormat.Jpeg;
+                        break;
+                    case ".bmp":
+                        format = ImageFormat.Bmp;
+                        break;
+                }
+                pictureBox2.Image.Save(sfd.FileName, format);
+            }
         }
 
         

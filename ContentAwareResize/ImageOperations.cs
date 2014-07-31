@@ -83,7 +83,7 @@ namespace ContentAwareResize
 
             return Buffer;
         }
-        
+
         /// <summary>
         /// Get the height of the image 
         /// </summary>
@@ -153,6 +153,41 @@ namespace ContentAwareResize
             }
             PicBox.Image = ImageBMP;
         }
+
+        // To Bitmap
+        // Create Image:
+        //==============
+       public static Bitmap toBitmap(MyPixel[,] ImageMatrix)
+        {
+            int Height = ImageMatrix.GetLength(0);
+            int Width = ImageMatrix.GetLength(1);
+
+            Bitmap ImageBMP = new Bitmap(Width, Height, PixelFormat.Format24bppRgb);
+
+            unsafe
+            {
+                BitmapData bmd = ImageBMP.LockBits(new Rectangle(0, 0, Width, Height), ImageLockMode.ReadWrite, ImageBMP.PixelFormat);
+                int nWidth = 0;
+                nWidth = Width * 3;
+                int nOffset = bmd.Stride - nWidth;
+                byte* p = (byte*)bmd.Scan0;
+                for (int i = 0; i < Height; i++)
+                {
+                    for (int j = 0; j < Width; j++)
+                    {
+                        p[0] = ImageMatrix[i, j].red;
+                        p[1] = ImageMatrix[i, j].green;
+                        p[2] = ImageMatrix[i, j].blue;
+                        p += 3;
+                    }
+
+                    p += nOffset;
+                }
+                ImageBMP.UnlockBits(bmd);
+            }
+            return ImageBMP;
+        }
+
 
         /// <summary>
         /// Normal resize of an image
