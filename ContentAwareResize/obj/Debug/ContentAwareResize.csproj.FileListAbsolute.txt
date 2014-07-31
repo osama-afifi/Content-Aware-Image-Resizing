@@ -1,0 +1,38 @@
+C:\Users\Ahmed\Desktop\Algorithms 2010\PROJECTs\Content Aware Resize\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+C:\Users\Ahmed\Desktop\Algorithms 2010\PROJECTs\Content Aware Resize\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
+C:\Users\Ahmed\Desktop\Algorithms 2010\PROJECTs\Content Aware Resize\[TEMPLATE] ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+C:\Users\Ahmed\Desktop\Algorithms 2010\PROJECTs\Content Aware Resize\[TEMPLATE] ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.pdb
+C:\Users\Ahmed\Desktop\Algorithms 2010\PROJECTs\Content Aware Resize\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\Algorithms 2010\PROJECTs\Content Aware Resize\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Form1.resources
+C:\Users\Ahmed\Desktop\Algorithms 2010\PROJECTs\Content Aware Resize\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\Algorithms 2010\PROJECTs\Content Aware Resize\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Ahmed\Desktop\Algorithms 2010\PROJECTs\Content Aware Resize\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Ahmed\Desktop\ALGO 2011\PROJECT IDEAS\[ALG'10] PROJECTs\CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+C:\Users\Ahmed\Desktop\ALGO 2011\PROJECT IDEAS\[ALG'10] PROJECTs\CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
+C:\Users\Ahmed\Desktop\ALGO 2011\PROJECT IDEAS\[ALG'10] PROJECTs\CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\[TEMPLATE] ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+C:\Users\Ahmed\Desktop\ALGO 2011\PROJECT IDEAS\[ALG'10] PROJECTs\CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\[TEMPLATE] ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.pdb
+C:\Users\Ahmed\Desktop\ALGO 2011\PROJECT IDEAS\[ALG'10] PROJECTs\CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\ALGO 2011\PROJECT IDEAS\[ALG'10] PROJECTs\CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Form1.resources
+C:\Users\Ahmed\Desktop\ALGO 2011\PROJECT IDEAS\[ALG'10] PROJECTs\CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\ALGO 2011\PROJECT IDEAS\[ALG'10] PROJECTs\CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Ahmed\Desktop\ALGO 2011\PROJECT IDEAS\[ALG'10] PROJECTs\CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Ahmed\Desktop\ALGO 2011\[ALG'11] PROJECTS\RELEASE\CONTENT AWARE RESIZE\CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+C:\Users\Ahmed\Desktop\ALGO 2011\[ALG'11] PROJECTS\RELEASE\CONTENT AWARE RESIZE\CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csprojResolveAssemblyReference.cache
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Form1.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Properties.Resources.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.GenerateResource.Cache
+D:\Osama\Study\College\3rd Year\1st Term\Algorithms\Project\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+D:\Osama\Study\College\3rd Year\1st Term\Algorithms\Project\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
+D:\Osama\Programming\Projects\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+D:\Osama\Programming\Projects\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
+D:\Osama\Programming\Projects\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+D:\Osama\Programming\Projects\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.pdb
+D:\Osama\Programming\Projects\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csprojResolveAssemblyReference.cache
+D:\Osama\Programming\Projects\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Form1.resources
+D:\Osama\Programming\Projects\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Properties.Resources.resources
+D:\Osama\Programming\Projects\[3] IMAGE CONTENT AWARE RESIZE\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.GenerateResource.Cache
