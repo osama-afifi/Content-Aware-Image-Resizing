@@ -1,22 +1,6 @@
 Content-Aware-Image-Resizing
 ============================
 
-Image Content-Aware Resize
-Introduction	2
-Main idea	2
-Solution 1: Remove Pixels with Min Energy	3
-Solution 2: Remove Seams with Min Backward Energy	3
-Solution 3: Remove Seams with Min Forward Energy	5
-To remove K columns (or K rows) only	7
-To remove K1 columns and K2 rows simultaneously	7
-Project Requirements	8
-Given	8
-Input	8
-Deliverables	9
-Implementation	9
-Documentation	9
-Grades	9
-BONUS TASKs	10
 
  
 Introduction
@@ -76,49 +60,3 @@ We should find an efficient solution that achieves a balance between the minimiz
 Figure 10 shows some explanation about the possibilities of removing:
  
 Figure 10: different possibilities of removing columns and rows… we need to minimize the total inserted energy
- 
-Project Requirements
-1.	Efficient method to remove K columns (or K rows) separately
-2.	Efficient method to remove K1 rows and K2 columns by determining the best order of removing that minimize the total inserted energy
-Given
-C# Code contains ImageOperations class with the following functionalities:
-1.	Open image & load it in a 2D array stored in a global variable of type MyColor  [,]called ImageMatrix
-	MyColor [,] OpenImage(string ImagePath)
-2.	Get width and height of the image matrix
-int GetHeight(MyColor[,] ImageMatrix)
-int GetWidth(MyColor[,] ImageMatrix)
-
-3.	Calculate the energy between two pixels 
-	int CalculatePixelsEnergy(MyColor Pixel1,MyColor Pixel2)
-4.	Display an image on a given PictureBox control 
-	void DisplayImage(MyColor[,] ImageMatrix,PictureBox PicBox)
-5.	Apply the standard resizing technique to resize the given image and return the resized one, you can use this function for comparing the results standard resizing and content-aware resizing 
-	MyColor[,] NormalResize(MyColor[,] ImageMatrix, int 	NewWidth, int NewHeight)
-Input
-1.	Colored image to be resized
-2.	Number of columns and rows to be removed from the image
- 
-Deliverables
-Implementation
-1.	Implement the content-aware resizing algorithm to minimize the input image by the given number of columns and rows by applying:
-1.	Efficient method to remove K columns (or K rows) separately
-2.	Efficient method to remove K1 rows and K2 columns by determining the best order of removing
-Documentation
-1.	Design of your solution in pseudocode (main functions only)
-2.	Analysis of your code
-Grades
-Deliverable	Grade
-Remove columns (or rows) separately	30%
-Remove rows and columns by determining the best order of removing 	30%
-Design of your solution in pseudo-code	20%
-Analysis of your pseudo-code	20%
-
- 
-BONUS TASKs
-1.	Fast way to update the energy matrix of the affected locations ONLY after removing each column/row instead of recalculating the whole matrix
-2.	One of the applications for the content-aware resizing is to remove some objects from the original image. The object(s) to be removed should be highlighted by the user using the mouse. Then you should remove the selected object(s) using your implementation of the content-aware resizing. Figure 11 shows an example.
- 	 
-Figure 11: Simple object removal: the user marks a region for removal (green), and possibly a region to protect (red), on the original image (see inset in left image). On the right image, consecutive vertical seam were removed until no ‘green’ pixels were left.
-3.	Another bonus is to maximize the image by inserting seams instead of removing them. Figure 12 shows an example.
-  
-Figure 12: maximize the image by inserting seams
